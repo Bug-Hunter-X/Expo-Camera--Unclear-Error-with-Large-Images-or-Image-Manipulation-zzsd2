@@ -1,0 +1,1 @@
+This error occurs when using the Expo SDK's `Camera` component in conjunction with certain image manipulation libraries or when handling very large images. The root cause is often related to memory management and how the image data is processed. The error itself might not always be very descriptive, making it difficult to pinpoint the exact problem.
